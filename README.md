@@ -1,2 +1,2 @@
-# 7-1-babel
-babel
+# 7-1-eslint
+eslint
